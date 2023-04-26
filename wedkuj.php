@@ -14,18 +14,18 @@
     </header>
 
 
-    <aside>
+    <aside class="lewy1">
         <h3>Ryby zamieszkujące rzeki</h3>
         <ol>
 
         </ol>
     </aside>
 
-    <main>
+    <main class="lewy2">
         <h3>Ryby drapieżne naszych wód</h3>
     </main>
 
-    <nav>
+    <nav class="prawy">
         <img src="ryba1.jpg" alt="Sum">
         <a href="kwerendy.txt">Pobierz kwerendy</a>
     </nav>
